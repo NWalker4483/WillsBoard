@@ -1,0 +1,7 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "adafruit:nrf52:feather52832",
+    "configuration": "softdevice=s132v6,debug=l0",
+    "port": "/dev/tty.usbserial-1420",
+    "sketch": "WillsBoard/WillsBoard.ino"
+}

@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/nilewalker/Library/Arduino15/packages/adafruit/tools/**",
+                "/Users/nilewalker/Library/Arduino15/packages/adafruit/hardware/nrf52/0.21.0/**"
+            ],
+            "forcedInclude": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/local/bin/gcc-10",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
